@@ -45,7 +45,7 @@ example:
 
 This function takes a fraction of a number.
 example:
-<img src="https://github-files-jdg.jasperdg.repl.co/Perc%20calc/readmePic5.png" height=150px />
+ <img src="https://github-files-jdg.jasperdg.repl.co/Perc%20calc/readmePic5.png" height=150px />
 
 #### 4. Credits
 
