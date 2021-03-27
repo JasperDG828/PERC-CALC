@@ -11,7 +11,9 @@ This installation is just sending the 8xp-file to the calculator, if you know ho
 To install this program on your calculator you need to have TI Connect CE on your PC. Download this via [this website](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw), installation of TI Connect is very straight forward, just follow the steps in the installer.
 
 When starting up TI Connect, you'll need to click on the 2nd icon in the sidebar(Icon: documents).
-Now click on the 1st icon in the top bar(Icon: arrow pointing from laptop). A file browser will appear, now you need to browse for the 8xp-file (which you should have downloaded already) and click on "open" (Can differentiate between operating systems). A window will now pop up where you need to make sure location is set to "RAM" and "Destination calculators" is set to your calculator.<img src="https://github-files-jdg.jasperdg.repl.co/Perc%20calc/readmePic1.jpg" height=250px />
+Now click on the 1st icon in the top bar(Icon: arrow pointing from laptop). A file browser will appear, now you need to browse for the 8xp-file (which you should have downloaded already) and click on "open" (Can differentiate between operating systems). A window will now pop up where you need to make sure location is set to "RAM" and "Destination calculators" is set to your calculator. 
+
+<img src="https://github-files-jdg.jasperdg.repl.co/Perc%20calc/readmePic1.jpg" height=250px />
 
 Now click on "SEND"
 The file will be sent to your calculator and be accessible via the prgm-menu on your calculator.
@@ -45,6 +47,7 @@ example:
 
 This function takes a fraction of a number.
 example:
+
  <img src="https://github-files-jdg.jasperdg.repl.co/Perc%20calc/readmePic5.png" height=150px />
 
 #### 4. Credits
